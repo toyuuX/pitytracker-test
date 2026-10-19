@@ -1,0 +1,1 @@
+{"name":"GenshinTrack","short_name":"GenshinTrack","description":"Pity, primogem planner, materials and roster tracker for Genshin Impact","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#0a0f23","theme_color":"#0a0f23","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
